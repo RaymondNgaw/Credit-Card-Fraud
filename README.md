@@ -1,0 +1,2 @@
+# Credit-Card-Fraud
+Credit card fraud analysis in September 2013 by European cardholders. Data obtained from Andrea Dal Pozzolo, Olivier Caelen, Reid A. Johnson and Gianluca Bontempi. Calibrating Probability with Undersampling for Unbalanced Classification. In Symposium on Computational Intelligence and Data Mining (CIDM), IEEE, 2015. For more information, please see: https://www.kaggle.com/dalpozz/creditcardfraud
